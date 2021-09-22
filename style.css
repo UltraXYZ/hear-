@@ -1,0 +1,38 @@
+body{
+    background-color: chartreuse;
+    font-family:  'Special Elite', cursive;
+}
+
+.header_div{
+    background: chartreuse;
+    color: gainsboro;
+}
+
+.header_div p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    letter-spacing: 2px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.mainDiv button{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    font-size: 19px;
+}
+
+.footer{
+    position: fixed;
+    background: aquamarine;
+    color: rgb(230, 222, 222);
+    width: 100%;
+    bottom: 0;
+    font-size: 18px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 21px ;
+}
